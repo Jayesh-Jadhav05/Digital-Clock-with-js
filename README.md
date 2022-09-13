@@ -1,2 +1,2 @@
-## [ Digital Clock ](https://mydigiclock.netlify.app/)
+##### [ Digital Clock ](https://mydigiclock.netlify.app/)
 
